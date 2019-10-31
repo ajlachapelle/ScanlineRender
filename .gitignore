@@ -1,0 +1,19 @@
+# Object files
+*.o
+
+# VTK files
+/VTK*
+# *.vtk
+
+# CMake build files
+CMakeCache.txt
+cmake_install.cmake
+CMakeFiles
+Makefile
+
+# png output
+*.png
+/images
+
+# Main executable
+rasterizer
